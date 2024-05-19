@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/chaithra3007" target="blank"><img src="https://img.shields.io/twitter/follow/chaithra3007?logo=twitter&style=for-the-badge" alt="chaithra3007" /></a> </p>
 
-- 🔭 I’m currently working on **Text summarization using NLP**
+- 🔭 I’m currently working on **Speech Depression Detection**
 
-- 🌱 I’m currently learning **Django,deep learning,DSA,devops**
+- 🌱 I’m good at **Python, C++,Machine learning, Deep Learning ,NLP, Django, Flask, SQL**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
