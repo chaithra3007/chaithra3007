@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nerella Chaithra Reddy</h1>
-<h3 align="center">A competitive coder and a passionate developer from India</h3>
+<h3 align="center">A curious researcher and a passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaithra3007&label=Profile%20views&color=0e75b6&style=flat" alt="chaithra3007" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **python, competitive programming**
+- 💬 Ask me about **python, ML, Speech depression detection**
 
 - 📫 How to reach me **nchaithrareddy567@gmail.com**
 
