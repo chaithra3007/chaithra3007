@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing MS by Research at IIIT Hyderabad - my research focuses on **Speech Depression Detection**
 
-- 🌱 I’m good at **Python, C++,Machine learning, Deep Learning ,NLP, Django, Flask, SQL**
+- 🌱 I’m good at **Python, C++,Machine learning, Deep Learning , AI, NLP, Django, Flask, SQL**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
