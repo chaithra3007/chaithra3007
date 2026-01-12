@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/chaithra3007" target="blank"><img src="https://img.shields.io/twitter/follow/chaithra3007?logo=twitter&style=for-the-badge" alt="chaithra3007" /></a> </p>
 
-- 🔭 I’m currently pursuing MS by Research at IIIT Hyderabad - my research focuses on **Speech Depression Detection**
+- 🔭 I’m currently pursuing MS by Research at IIIT Hyderabad - my research focuses on **Multimodal Depression Detection**
 
-- 🌱 I’m good at **Python, C++,Machine learning, Deep Learning , AI, NLP, Django, Flask, SQL**
+- 🌱 I’m good at **Python, Pytorch, ML, DL, AI, NLP, Speech Processing, Django, Flask, SQL**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **python, ML, Speech depression detection**
+- 💬 Ask me about ** Speech depression detection, Parkinsons Disease Detection**
 
 - 📫 How to reach me **nchaithrareddy567@gmail.com**
 
