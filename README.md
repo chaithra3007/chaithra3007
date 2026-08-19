@@ -1,35 +1,59 @@
-<h1 align="center">Hi 👋, I'm Nerella Chaithra Reddy</h1>
-<h3 align="center">A curious researcher and a passionate developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaithra3007&label=Profile%20views&color=0e75b6&style=flat" alt="chaithra3007" /> </p>
+# Hi 👋, I'm Nerella Chaithra Reddy
 
-<p align="left"> <a href="https://twitter.com/chaithra3007" target="blank"><img src="https://img.shields.io/twitter/follow/chaithra3007?logo=twitter&style=for-the-badge" alt="chaithra3007" /></a> </p>
+### MS by Research @ IIIT Hyderabad | SDE-1 @ Navi
+*Multimodal AI · Speech Processing · Clinical NLP*
 
-- 🔭 I’m currently pursuing MS by Research at IIIT Hyderabad - my research focuses on **Multimodal Depression Detection**
+[![Profile Views](https://komarev.com/ghpvc/?username=chaithra3007&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/chaithra3007)
+[![Twitter Follow](https://img.shields.io/twitter/follow/chaithra3007?logo=twitter&style=flat-square)](https://twitter.com/chaithra3007)
 
-- 🌱 I’m good at **Python, Pytorch, ML, DL, AI, NLP, Speech Processing, Django, Flask, SQL**
+</div>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+---
 
-- 💬 Ask me about ** Speech depression detection, Parkinsons Disease Detection**
+### 🔬 About Me
 
-- 📫 How to reach me **nchaithrareddy567@gmail.com**
+- 🎓 **MS by Research in CSE** @ IIIT Hyderabad (GPA: 9.7/10) | SDE-1 @ Navi
+- 🎙️ **Research:** Multimodal Speech Processing, Clinical NLP & Psychiatric AI (Depression/PTSD)
+- 💼 **Past:** Research Intern @ Ericsson (LLM Knowledge Graphs)
+- 🏆 **Awards:** 3rd Place @ IndoML Datathon '24 | Winner @ Smart India Hackathon '23
+- 💬 **Ask me about:** Speech depression detection & LLM reasoning in healthcare
+- 📫 **Reach me:** [nchaithrareddy567@gmail.com](mailto:nchaithrareddy567@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📄 Selected Publications
+
+- 🎤 **Multimodal Depression & PTSD Prediction** — *EMBC 2026 (Oral)*
+- 📝 **Perspective-Aware Summarization** — *NAACL CL4@Health 2025*
+- 🎙️ **Clinically Inspired Symptom-Guided Speech Representations** — *APSIPA 2026*
+- 🧠 **Symptom-Level Analysis of Linguistic Cues in LLMs** — *JMIR Mental Health 2026*
+
+---
+
+### 🛠️ Tech & Tools
+
 <p align="left">
-<a href="https://twitter.com/chaithra3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaithra3007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chaithra reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaithra reddy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chaithu_3007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaithu_3007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chaithra_540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaithra_540" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/chaithu_3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chaithu_3007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chaithra07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaithra07" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/wav2vec2-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaithra3007&show_icons=true&locale=en&layout=compact" alt="chaithra3007" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaithra3007&show_icons=true&locale=en" alt="chaithra3007" /></p>
+[![Email](https://img.shields.io/badge/Gmail-nchaithrareddy567%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nchaithrareddy567@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaithra_Reddy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaithra-reddy)
+[![Twitter](https://img.shields.io/badge/Twitter-@chaithra3007-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chaithra3007)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaithra3007&" alt="chaithra3007" /></p>
+</div>
