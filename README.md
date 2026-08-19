@@ -38,10 +38,17 @@ Linguistic Cues, Failures, and Cross-Modality Gaps** — submitted to *JMIR Ment
 ### 🛠️ Tech & Tools
 
 <p align="left">
+  <!-- Core AI Domains -->
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-008080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Speech_Processing-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <!-- Frameworks & Models -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/wav2vec2-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/wav2vec2-4285F4?style=flat-square" />
+  <!-- Languages & Dev Tools -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
