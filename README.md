@@ -26,12 +26,12 @@
 ### 📄 Selected Publications
 
 - 🎤 **Multi-Task Learning for Comorbidity-aware Prediction of Depression
-and Post-Traumatic Stress Disorder from Clinical Interviews** — *EMBC 2026 (Oral)*
-- 📝 **Perspective-Aware Summarization** — *NAACL CL4@Health 2025*
+and Post-Traumatic Stress Disorder from Clinical Interviews** — accepted at *EMBC 2026 (Oral)*
+- 📝 **Perspective-Aware Summarization** — accepted at *NAACL CL4@Health 2025*
 - 🎙️ **Clinically Inspired Symptom-Guided Depression Detection from Emotion
-Aware Speech Representations** — *APSIPA 2026*
+Aware Speech Representations** — accepted at *APSIPA 2026*
 - 🧠 **What Do LLMs See in Depression: A Symptom Level Analysis of
-Linguistic Cues, Failures, and Cross-Modality Gaps** — *JMIR Mental Health 2026*
+Linguistic Cues, Failures, and Cross-Modality Gaps** — submitted to *JMIR Mental Health 2026*
 
 ---
 
