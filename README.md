@@ -15,7 +15,7 @@
 ### 🔬 About Me
 
 - 🎓 **MS by Research in CSE** @ IIIT Hyderabad (GPA: 9.7/10) | SDE-1 @ Navi
-- 🎙️ **Research:** Multimodal Speech Processing, Clinical NLP & Psychiatric AI (Depression/PTSD)
+- 🎙️ **Research:** Multimodal AI, Speech Processing, Clinical NLP & Healthcare
 - 💼 **Past:** Research Intern @ Ericsson (LLM Knowledge Graphs)
 - 🏆 **Awards:** 3rd Place @ IndoML Datathon '24 | Winner @ Smart India Hackathon '23
 - 💬 **Ask me about:** Speech depression detection & LLM reasoning in healthcare
@@ -25,10 +25,13 @@
 
 ### 📄 Selected Publications
 
-- 🎤 **Multimodal Depression & PTSD Prediction** — *EMBC 2026 (Oral)*
+- 🎤 **Multi-Task Learning for Comorbidity-aware Prediction of Depression
+and Post-Traumatic Stress Disorder from Clinical Interviews** — *EMBC 2026 (Oral)*
 - 📝 **Perspective-Aware Summarization** — *NAACL CL4@Health 2025*
-- 🎙️ **Clinically Inspired Symptom-Guided Speech Representations** — *APSIPA 2026*
-- 🧠 **Symptom-Level Analysis of Linguistic Cues in LLMs** — *JMIR Mental Health 2026*
+- 🎙️ **Clinically Inspired Symptom-Guided Depression Detection from Emotion
+Aware Speech Representations** — *APSIPA 2026*
+- 🧠 **What Do LLMs See in Depression: A Symptom Level Analysis of
+Linguistic Cues, Failures, and Cross-Modality Gaps** — *JMIR Mental Health 2026*
 
 ---
 
